@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Asif Imtiaz Shaafi! 👋
 
-<!--
-**AsifShaafi/asifshaafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Developer who loves to learn and apply new things every day!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a TypeScript Project
+- 🌱 I’m currently learning lots of thins like _JavaScript, React, Flutter, REST_ 😜
+- 💬 Ask me about anything you want to know! 😎
+- 📫 How to reach me: :e-mail: shaafi.20994@gmail.com 
+- ⚡ Fun fact: I love to watch Anime and Tv series a lot! :heart:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Connect with me:
+
+[<img align="left" alt="asifshaafi.apphousebd.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="a15shaafi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="asif-imtiaz-shaafi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+
+[website]: https://asifshaafi.apphousebd.com
+[twitter]: https://twitter.com/a15shaafi
+[linkedin]: https://linkedin.com/in/asif-imtiaz-shaafi
