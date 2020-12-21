@@ -29,6 +29,7 @@
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -45,23 +46,30 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifShaafi&layout=compact&count_private=true)](https://github.com/AsifShaafi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifShaafi&layout=compact&count_private=true&langs_count=8)](https://github.com/AsifShaafi/github-readme-stats)
 
 <br />
+
+---
 
 ### Some of Asif Imtiaz Shaafi's repositories: 
 
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AsifShaafi&theme=dark&repo=aws_lambda_github_pipeline)](https://github.com/AsifShaafi/github-readme-stats)
+<a href="https://github.com/AsifShaafi/aws_lambda_github_pipeline">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsifShaafi&repo=aws_lambda_github_pipeline" />
+</a>
+
+
+<a href="https://github.com/AsifShaafi/kaltura_typescript_test">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsifShaafi&repo=kaltura_typescript_test" />
+</a>
 
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AsifShaafi&theme=dark&repo=rest_to_graphql)](https://github.com/AsifShaafi/github-readme-stats)
-
-<br />
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AsifShaafi&theme=dark&repo=kaltura_typescript_test)](https://github.com/AsifShaafi/github-readme-stats)
+<a href="https://github.com/AsifShaafi/rest_to_graphql">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsifShaafi&repo=rest_to_graphql" />
+</a>
 
 <br />
 
