@@ -43,7 +43,15 @@
 
 ---
 
-![AsifShaafi's github stats](https://github-readme-stats.vercel.app/api?username=AsifShaafi&show_icons=true&hide_border=true&count_private=true)
+## Medium posts
+
+![Asif Imtiaz Shaafi's Medium Post](https://mediumblog-cards.vercel.app/getMediumBlogs?username=asifimtiazshaafi&type=horizontal)
+
+
+
+---
+
+[![AsifShaafi's github stats](https://github-readme-stats.vercel.app/api?username=AsifShaafi&show_icons=true&hide_border=true&count_private=true)](https://medium.com/@asifimtiazshaafi)
 
 <br />
 
