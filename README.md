@@ -82,6 +82,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsifShaafi&repo=rest_to_graphql" />
 </a>
 
+
+<a href="https://github.com/AsifShaafi/react_aws_amplify">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsifShaafi&repo=react_aws_amplify" />
+</a>
+
 <br />
 
 [mediability]: https://publish.mediability.com/
