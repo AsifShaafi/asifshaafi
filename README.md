@@ -83,6 +83,14 @@
 </a>
 
 
+<a href="https://github.com/AsifShaafi/react-amplify-cloudfront">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsifShaafi&repo=react-amplify-cloudfront" />
+</a>
+
+<br />
+
+<br />
+
 <a href="https://github.com/AsifShaafi/react_aws_amplify">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsifShaafi&repo=react_aws_amplify" />
 </a>
