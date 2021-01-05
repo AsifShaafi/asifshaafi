@@ -1,15 +1,14 @@
 ### Hi there, I'm Asif Imtiaz Shaafi! 👋
 
-#### I'm a Developer who loves to learn and apply new things every day!
+#### I'm a Developer who loves to learn and apply new things every day
 
-- 🔭 I’m currently working on [**Mediability Publish**][mediability] which is built with _TypeScript_ and uses _AWS services_
-- 🌱 I’m currently learning lots of things like _JavaScript/TypeScript, React, Flutter, REST, AWS_ 😜
-- 💬 Ask me about anything you want to know! 😎
-- 📫 How to reach me: :e-mail: shaafi.20994@gmail.com 
-- ⚡ Fun fact: I love to watch Anime and Tv series a lot! :heart:
+  - 🔭 I’m currently working on [**Mediability Publish**][mediability] which is built with _TypeScript_ and uses _AWS services_
+  - 🌱 I’m currently learning lots of things like _JavaScript/TypeScript, React, Flutter, REST, AWS_ 😜
+  - 💬 Ask me about anything you want to know! 😎
+  - 📫 How to reach me: :e-mail: shaafi.20994@gmail.com 
+  - ⚡ Fun fact: I love to watch Anime and Tv series a lot! :heart:
 
-
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="asifshaafi.apphousebd.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="a15shaafi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -17,7 +16,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png" />
@@ -47,8 +46,6 @@
 
 ![Asif Imtiaz Shaafi's Medium Post](https://mediumblog-cards.vercel.app/getMediumBlogs?username=asifimtiazshaafi&type=horizontal)
 
-
-
 ---
 
 [![AsifShaafi's github stats](https://github-readme-stats.vercel.app/api?username=AsifShaafi&show_icons=true&hide_border=true&count_private=true)](https://medium.com/@asifimtiazshaafi)
@@ -61,14 +58,13 @@
 
 ---
 
-### Some of Asif Imtiaz Shaafi's repositories: 
+### Some of Asif Imtiaz Shaafi's repositories
 
 <br />
 
 <a href="https://github.com/AsifShaafi/aws_lambda_github_pipeline">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsifShaafi&repo=aws_lambda_github_pipeline" />
 </a>
-
 
 <a href="https://github.com/AsifShaafi/kaltura_typescript_test">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsifShaafi&repo=kaltura_typescript_test" />
@@ -81,7 +77,6 @@
 <a href="https://github.com/AsifShaafi/rest_to_graphql">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsifShaafi&repo=rest_to_graphql" />
 </a>
-
 
 <a href="https://github.com/AsifShaafi/react-amplify-cloudfront">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsifShaafi&repo=react-amplify-cloudfront" />
