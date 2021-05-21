@@ -1,4 +1,5 @@
-### Hi there, I'm Asif Imtiaz Shaafi! 👋
+
+### Hi there, I'm Asif Imtiaz Shaafi! 👋  
 
 #### I'm a Developer who loves to learn and apply new things every day
 
@@ -19,6 +20,8 @@
 [<img align="left" alt="asif-imtiaz-shaafi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+<p align="right"><img src="https://komarev.com/ghpvc/?username=asifshaafi&label=Profile%20views&color=brightgreen&style=plastic"> </p>
+
 
 ### Languages and Tools
 
@@ -95,6 +98,7 @@
 </a>
 
 <br />
+
 
 [mediability]: https://publish.mediability.com/
 [website]: https://asifshaafi.apphousebd.com
