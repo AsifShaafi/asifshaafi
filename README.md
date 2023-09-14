@@ -1,17 +1,21 @@
 
 ### Hi there, I'm Asif Imtiaz Shaafi! 👋  
 
-#### I'm a Developer who loves to learn and apply new things every day
+<!-- #### I'm a Developer who loves to learn and apply new things every day -->
 
-- 🔭 I’m currently working on [**Mediability Publish**][mediability] which is built with _TypeScript_ and uses _AWS services_
+- 🏫 Currently, I'm pursuing a Ph.D. in Computer Science at Baylor University
 
-- 🌱 I’m currently learning lots of things like _JavaScript/TypeScript, React, Flutter, REST, AWS_ 😜
+- 💼 I'm also working as a Graduate Teaching Assistant at Baylor University
+
+- 🔭 Last project that I work on is [**Kunnusta.no**](https://kunnusta.no/) which is built with _TypeScript_ and uses _AWS services_
+
+- 🌱 I have a good experience with many things like _JavaScript/TypeScript, React, Flutter, REST, and AWS_ 😜
 
 - 💬 Ask me about anything you want to know! 😎
 
 - 📫 How to reach me: :e-mail: shaafi.20994@gmail.com 
 
-- ⚡ Fun fact: I love to watch Anime and Tv series a lot! :heart:
+- ⚡ Fun fact: I love to watch Anime and TV series a lot! :heart:
 
 ### Connect with me
 
@@ -25,9 +29,9 @@
 
 ### Languages and Tools
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+<img align="left" alt="Android Studio" width="26px" src="https://developer.android.com/static/studio/images/new-studio-logo-1.png" />
+<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
