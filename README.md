@@ -19,8 +19,8 @@
 
 ### Connect with me
 
-[<img align="left" alt="asifshaafi.apphousebd.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="a15shaafi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<!-- [<img align="left" alt="asifshaafi.apphousebd.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+[<img align="left" alt="asifshaafi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="asif-imtiaz-shaafi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -106,5 +106,5 @@
 
 [mediability]: https://publish.mediability.com/
 [website]: https://asifshaafi.apphousebd.com
-[twitter]: https://twitter.com/a15shaafi
+[twitter]: https://twitter.com/asifshaafi
 [linkedin]: https://linkedin.com/in/asif-imtiaz-shaafi
